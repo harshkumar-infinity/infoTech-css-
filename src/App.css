@@ -1,0 +1,33 @@
+* {
+    font-family: Apercu-Regular, sans-serif;
+}
+
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.back {
+    background-image: url('./coman/img/404-page-not-found.png');
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.button {
+    font-size: large;
+    margin-left: 93vh;
+    margin-top: 66.9vh;
+    height: 7.8vh;
+    width: 22vh;
+}

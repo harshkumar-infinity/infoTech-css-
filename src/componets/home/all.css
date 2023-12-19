@@ -1,0 +1,268 @@
+.part1 {
+    background-image: linear-gradient(to right, rgba(25, 117, 210, 0.9), rgba(25, 118, 210, 1)), url(./img/seiler_marquees_partnership_pageseilerlogocontactmarquee.png);
+    height: 740px;
+    background-size: cover;
+    padding: 20px 50px;
+}
+
+.support {
+    color: white !important;
+    font-size: large !important;
+}
+
+.text1 {
+    color: white;
+    float: left;
+    margin-left: 24px;
+    margin-top: 35px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.text2 {
+    font-size: 51px;
+    color: white;
+    font-weight: bold;
+    height: auto;
+    width: 340px;
+    text-align: left;
+    margin-left: 24px;
+}
+
+.text3 {
+    font-size: 17px;
+    line-height: 27.03px;
+    font-weight: 400;
+    color: white;
+    height: auto;
+    width: 425px;
+    text-align: left;
+    margin-left: 24px;
+}
+
+.photo1 {
+    height: 450px;
+    width: 450px;
+    margin-top: -400px;
+    margin-left: 50vh;
+}
+
+.button1 {
+    border-radius: 50px !important;
+    margin: 50px 24px !important;
+    float: left;
+    background-color: white !important;
+    color: rgb(9, 9, 114) !important;
+    height: 60px;
+    width: 200px;
+    font-size: medium !important;
+    font-weight: 549 !important;
+}
+
+.arro {
+    padding-left: 10px;
+}
+
+.button1:hover .arro {
+    transition:  0.5s;
+    padding-left: 20px;
+    color: white;
+}
+
+.text4 {
+    background-color: #1588fc;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    height: 200px;
+    width: 200px;
+    margin: -50vh 155vh;
+    padding: 20px;
+}
+
+.part2 {
+    width: 100%;
+    height: 100vh;
+    margin: 0 !important;
+}
+
+.photo2 {
+    float: left;
+    margin: 100px 70px;
+}
+
+
+.text11 {
+    font-size: 50px;
+    color: rgb(0, 0, 100);
+    font-weight: bold;
+    text-align: left;
+    width: 85vh;
+    position: absolute;
+    margin: 100px 120vh;
+}
+
+.text12 {
+    text-align: left;
+    line-height: 27.03px;
+    letter-spacing: -0.5px;
+    color: #445666;
+    position: absolute;
+    font-size: 17px;
+    width: 81vh;
+    margin: 350PX 120vh;
+}
+
+.part3 {
+    width: 100%;
+    height: 170vh;
+    margin: 0 !important;
+}
+
+.a1 {
+    height: 50vh;
+}
+
+.a22 {
+    background-color: #100ADB;
+    width: 100px;
+    height: 50vh;
+}
+
+.aa1 {
+    margin-left: 3.5vh;
+    color: white;
+}
+
+.aa2 {
+    width: 300px;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 25px;
+    color: white;
+}
+
+.aa3 {
+    margin-top: 20vh;
+    margin-left: 4vh;
+    color: white;
+}
+
+.a22 img {
+    width: 74.3vh;
+    height: 50vh;
+    background-size: cover;
+}
+
+.z {
+    background-color: #2D1E73;
+}
+
+.aaa1 {
+    margin-left: 3.5vh;
+    color: white;
+}
+
+.aaa3 {
+    margin-top: 25vh;
+    margin-left: 4vh;
+    color: white;
+}
+
+.z1 {
+    background-color: #141446;
+}
+
+.b1 {
+    margin-top: 9vh;
+    margin-left: 3.5vh;
+    color: white;
+}
+
+.b2 {
+    margin-top: 9vh;
+    margin-left: 3.5vh;
+    color: white;
+}
+
+.c2 {
+    width: 250px;
+    text-align: left;
+    font-size: 30px;
+    margin-left: 25px;
+    color: white;
+}
+
+.z3 {
+    background-color: #00C2C2
+}
+
+.z2 {
+    background-color: #0074E8;
+}
+
+.part4 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(./img/infotech_0413-lr_reverse.jpg);
+    background-repeat: no-repeat;
+    height: 124.3vh;
+    width: 100%;
+    display: flex;
+
+}
+
+.part4-first {
+    float: left;
+    padding: 90px;
+    text-align: left;
+    color: white;
+}
+
+.p1 {
+    font-size: 48px;
+    font-weight: 500;
+    width: 50vh;
+}
+
+.p2 {
+    width: 50vh;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.p4 {
+    width: 25vh;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.p5 {
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+    border-bottom: orange solid 2px;
+}
+
+.p6 {
+    margin-top: 90px !important;
+}
+
+.p7 {
+    color: white;
+    text-decoration: none;
+    border-bottom: white solid 2px;
+}
+
+.p9 {
+    color: white;
+    text-decoration: none;
+    border-bottom: white solid 2px;
+}
+
+.part4-sac {
+    color: #43515c;
+    background-color: #f3f3f3;
+    height: 750px;
+    width: 550px;
+    margin: 30px 0px 0px 40vh;
+}

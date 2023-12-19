@@ -1,0 +1,62 @@
+/* form.css */
+.form {
+    padding: 24px;
+}
+
+.input-field {
+    height: 5vh;
+    border: rgb(215, 215, 215) 1px solid;
+    width: 99%;
+}
+
+.form {
+    padding: 24px;
+}
+
+.form input,
+textarea {
+    height: 5vh;
+    border: rgb(215, 215, 215) 1px solid;
+}
+
+label {
+    font-size: 16px;
+    line-height: 25.44px;
+    font-weight: 500;
+}
+
+.t1 {
+    color: RGB(68, 86, 102);
+    font-size: 13px;
+    line-height: 13px;
+    letter-spacing: -0.5px;
+    font-weight: 400;
+}
+
+.span {
+    color: black;
+    font-weight: 500;
+}
+
+.captcha {
+    height: 8vh;
+}
+
+.form-btn {
+    font-size: 14.7px;
+    font-weight: 600;
+    margin-left: -4.8vh;
+    border-radius: 10vh;
+    background-color: rgb(38, 87, 223);
+    color: white;
+    border: none;
+    padding: 3vh;
+    width: 31vh;
+}
+
+.form-btn:hover {
+    font-size: 14px;
+    color: rgb(38, 87, 223);
+    background-color: white;
+    border: 1px rgb(38, 87, 223) solid;
+}

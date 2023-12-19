@@ -1,0 +1,116 @@
+.c-1 {
+    background-image: url(./img/bidexpress_cta.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 50px;
+}
+
+.c-1-1 {
+    height: 80vh;
+}
+
+.c-1-1-1 {
+    margin: 15vh 0vh 0vh 13vh;
+    height: 60vh;
+    width: 80vh;
+    float: left;
+    background-color: #F4F4F4;
+}
+
+.c-1-t1 {
+    color: #2D1E73;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.c-1-t2 {
+    text-align: center;
+    color: #2D1E73;
+    line-height: 50px;
+    font-size: 48px;
+    letter-spacing: -2px;
+    padding: 0px 50px;
+    font-weight: 500;
+}
+
+.c-1-1-2 {
+    margin: 15vh 0vh 0vh 10vh;
+    height: 60vh;
+    width: 80vh;
+    background-color: #F4F4F4;
+    float: left;
+}
+
+.c-1-t3 {
+    color: #0078F0;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.c-1-t4 {
+    text-align: center;
+    color: #0078F0;
+    line-height: 50px;
+    font-size: 48px;
+    letter-spacing: -2px;
+    padding: 0px 100px;
+    font-weight: 500;
+}
+
+.btns {
+    width: 40vh;
+    margin-left: 25vh;
+}
+
+.btnpri {
+    width: 20vh;
+    margin-left: 5vh;
+    margin-top: -10px !important;
+}
+
+.btn {
+    margin-left: -2vh;
+    width: 35vh;
+    margin-top: 10px;
+
+}
+
+.arrow {
+    position: absolute;
+    padding-left: 10px;
+    margin-top: -5px;
+}
+
+
+.all {
+    border-radius: 10vh;
+    padding: 15px 15px;
+    border: none;
+}
+
+.a {
+    background-color: #0f0051da;
+    color: white;
+}
+
+.b {
+    color: #0078F0;
+    background-color: white;
+}
+
+.a:hover {
+    border: #2D1E73 solid 1px;
+    color: #0f0051da;
+    background-color: white;
+}
+
+.b:hover {
+    border: white solid 1px;
+    color: white;
+    background-color: #0078F0;
+}

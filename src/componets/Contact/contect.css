@@ -1,0 +1,91 @@
+.con-1 {
+    background-image: linear-gradient(rgba(0, 7, 62, 0.5), rgba(0, 7, 62, 0.5)), url(./img/contact_marquee.jpg);
+    height: 111vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 20px 50px;
+}
+
+.con-1-first {
+    float: left;
+    margin: 10vh 0vh 0vh 45vh;
+    padding-left: 90px;
+    text-align: left;
+    color: white;
+}
+
+.con1 {
+    font-size: 48px;
+    font-weight: 500;
+    width: 5vh !important;
+    letter-spacing: -2px;
+}
+
+.p3 {
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: -4px;
+}
+
+.p4 {
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.p5 {
+    margin-top: 10px;
+    color: white;
+    text-decoration: none;
+    border-bottom: orange solid 2px;
+}
+
+.p6 {
+    margin-top: 90px !important;
+}
+
+.p7 {
+    color: white;
+    text-decoration: none;
+    border-bottom: white solid 1px;
+    font-size: 12px;
+}
+
+.p9 {
+    font-size: 12px;
+    color: white;
+    text-decoration: none;
+    border-bottom: white solid 1px;
+}
+
+.p10 {
+    margin-top: 8vh;
+    font-size: 12px;
+    line-height: 12.96px;
+    letter-spacing: 1.5px;
+}
+
+.con-btn {
+    width: 35vh;
+    padding: 15px;
+    border-radius: 10vh;
+    background-color: rgba(255, 255, 255, 0);
+    color: #fff;
+    border: solid 1px;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+
+.con-btn:hover .arrow {
+    transition: 0.5s;
+    padding-left: 15px;
+}
+
+.con-1-sec {
+    float: left;
+    color: #3e464e;
+    background-color: #f0f0f0;
+    height: 105vh;
+    width: 75vh;
+    margin: 0px 0px 0px 5vh;
+}
